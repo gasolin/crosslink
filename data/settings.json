@@ -116,14 +116,14 @@
     "name": "ARK.Taipei",
     "city": "Taipei",
     "short": "Taipei, Taiwan",
-    "address": "台北方舟ARK.Taipei",
+    "address": "臺北市南港區市民大道七段100號",
     "pointer": {
-      "latitude": 25.0507078,
+      "latitude": 25.0507126,
       "longitude": 121.5891264,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 25.0507078,
+      "latitude": 25.0507126,
       "longitude": 121.5891264
     },
     "description": "No. 100, Sec. 7, Civic Blvd., Nangang Dist., Taipei City, Taiwan / 臺北市南港區市民大道七段100號 (台北方舟ARK.Taipei)"
