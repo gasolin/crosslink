@@ -5,17 +5,17 @@
     "blog": "https://medium.com/taipei-ethereum-meetup",
     "url": "https://ethertw.github.io/eth.taipei/"
   },
-  "startDate": "2019-10-19T09:00:00+08:00",
-  "endDate": "2019-10-20T18:00:00+08:00",
+  "startDate": "2020-11-28T09:00:00+08:00",
+  "endDate": "2020-11-28T18:30:00+08:00",
   "webapp": {
-    "shortName": "Crosslink19",
+    "shortName": "Crosslink20",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "zh-TW"
   },
-  "hashtag": "crosslink19",
+  "hashtag": "crosslink20",
   "disabledSchedule": true,
   "showSessionShortAbstract": false,
   "navigation": [
@@ -42,7 +42,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "One More Round of Cross Asia-rd Communication",
+      "description": "Stay Tuned",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.png"
@@ -107,26 +107,26 @@
     },
     "location": {
       "title": "Location",
-      "metaDescription": "台灣新北市新店區北新路三段 223 號 2 樓 (台北矽谷國際會議中心) ",
-      "description": "Taipei Innovation City Convention Center is located near the MRT Dapinglin Station (G04)"
+      "metaDescription": "臺北市南港區市民大道七段100號 (台北方舟ARK.Taipei) ",
+      "description": "ARK.Taipei is located near the MRT Dapinglin Station (G04)"
     }
   },
   "location": {
     "label": "Location",
-    "name": "Taipei Innovation City Convention Center",
-    "city": "New Taipei",
-    "short": "New Taipei, Taiwan",
-    "address": "臺北矽谷國際會議中心",
+    "name": "ARK.Taipei",
+    "city": "Taipei",
+    "short": "Taipei, Taiwan",
+    "address": "台北方舟ARK.Taipei",
     "pointer": {
-      "latitude": 24.986118,
-      "longitude": 121.540098,
+      "latitude": 25.0507078,
+      "longitude": 121.5891264,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 24.986118,
-      "longitude": 121.540098
+      "latitude": 25.0507078,
+      "longitude": 121.5891264
     },
-    "description": "2F., No. 223, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City 231, Taiwan / 台灣新北市新店區北新路三段 223 號 2 樓 (台北矽谷國際會議中心)"
+    "description": "No. 100, Sec. 7, Civic Blvd., Nangang Dist., Taipei City, Taiwan / 臺北市南港區市民大道七段100號 (台北方舟ARK.Taipei)"
   },
   "mediaQueries": {
     "xs": {

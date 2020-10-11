@@ -1,9 +1,9 @@
 {
-  "title": "Crosslink 2019",
+  "title": "Crosslink 2020",
   "description": "An Ethereum Event in Taipei, Taiwan",
   "image": "images/social-share.jpg",
   "keywords": "event, eth, ethereum, developers",
-  "dates": "October 19-20, 2019",
+  "dates": "November 28, 2020",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -49,32 +49,32 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "Crosslink 2019 is a two-day conference in Taipei with domestic and overseas leading blockchain researchers and developers.",
+        "description": "Crosslink 2020 is a one-day conference in Taipei with domestic and overseas leading blockchain researchers and developers.",
         "label": "Explore featured session",
         "link": "https://youtu.be/9RtSod8EXn4?t=11388"
       },
       "howItWas": {
-        "description": "BeyondBlock Taipei 2017 was the event with similar nature hosted by co-organizers of Taipei Ethereum Meetup.",
-        "label": "See how it was in 2017",
-        "youtubeId": "9RtSod8EXn4"
+        "description": "Crosslink 2019 was the event with similar nature hosted by co-organizers of Taipei Ethereum Meetup.",
+        "label": "See how it was in 2019",
+        "youtubeId": "f6pFzThC9gI"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "350"
+        "number": "200"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "19"
+        "number": "17"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "2"
+        "number": "3"
       }
     }
   },
@@ -120,7 +120,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Rockstar speakers in 2019",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
